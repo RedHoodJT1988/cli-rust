@@ -1,0 +1,10 @@
+/Users/redhood/Desktop/code-projects/rust_projects/cli-rust/hello/target/debug/deps/libassert_cmd-8c59570df7e40c04.rmeta: /Users/redhood/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/lib.rs /Users/redhood/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/assert.rs /Users/redhood/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cargo.rs /Users/redhood/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cmd.rs /Users/redhood/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/output.rs /Users/redhood/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/../README.md
+
+/Users/redhood/Desktop/code-projects/rust_projects/cli-rust/hello/target/debug/deps/assert_cmd-8c59570df7e40c04.d: /Users/redhood/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/lib.rs /Users/redhood/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/assert.rs /Users/redhood/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cargo.rs /Users/redhood/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cmd.rs /Users/redhood/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/output.rs /Users/redhood/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/../README.md
+
+/Users/redhood/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/lib.rs:
+/Users/redhood/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/assert.rs:
+/Users/redhood/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cargo.rs:
+/Users/redhood/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cmd.rs:
+/Users/redhood/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/output.rs:
+/Users/redhood/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/../README.md:
